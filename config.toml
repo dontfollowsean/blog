@@ -1,0 +1,62 @@
+baseurl = "https://www.dontfollowsean.com"
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+title = "@dontfollowsean"
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "Blog by Sean Wilkinson"
+  keywords = "homepage, blog, science, informatics, development, programming, software, engineering"
+  images = [""]
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  homeSubtitle = "Under Contruction 👷🏾‍♂️"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:swilkinson09@gmail.com"
+  [[params.social]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/swilkinson09"
+  [[params.social]]
+    name = "github"
+    url  = "https://www.github.com/dontfollowsean"
+
+[languages]
+  [languages.en]
+    keywords = ""
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "cd ~/home/"
+      logoHomeLink = "/"
+      alt = "Homepage"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "https://www.seanewilkinson.com"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "/posts"
+  [[menu.main]]
+    identifier = "projects"
+    name       = "Projects"
+    url        = "/Projects" 
+
+[permalinks]
+    posts = "/posts/:year/:month/:title/"
+
+[author]
+    name = "Sean Wilkinson"
