@@ -2,7 +2,7 @@ baseurl = "https://www.seanewilkinson.com/blog"
 languageCode = "en-us"
 theme = "hello-friend-ng"
 
-title = "@dontfollowsean"
+title = "dontfollowsean"
 
 [params]
   dateform        = "Jan 2, 2006"
