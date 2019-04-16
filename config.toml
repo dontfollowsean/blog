@@ -37,7 +37,7 @@ title = "@dontfollowsean"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "cd ~/home/"
+      logoText = "cd ~/blog/"
       logoHomeLink = "/blog"
       alt = "Homepage"
 
