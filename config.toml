@@ -38,22 +38,22 @@ title = "@dontfollowsean"
 
     [languages.en.params.logo]
       logoText = "cd ~/home/"
-      logoHomeLink = "/"
+      logoHomeLink = "/blog"
       alt = "Homepage"
 
 [menu]
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "About Me"
     url = "https://www.seanewilkinson.com"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/posts"
+    url        = "/"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "/Projects" 
+    url        = "/" 
 
 [permalinks]
     posts = "/posts/:year/:month/:title/"
