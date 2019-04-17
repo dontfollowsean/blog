@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.seanewilkinson.com/blog/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.seanewilkinson.com/blog/projects/helloworld/</loc>
+    <lastmod>2019-04-16T22:32:51-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.seanewilkinson.com/blog/tags/</loc>
+    <loc>https://www.seanewilkinson.com/blog/projects/</loc>
+    <lastmod>2019-04-16T22:32:51-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.seanewilkinson.com/blog/</loc>
+    <lastmod>2019-04-16T22:32:51-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.seanewilkinson.com/blog/posts/2019/04/helloworld/</loc>
+    <lastmod>2019-04-16T22:32:18-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.seanewilkinson.com/blog/posts/</loc>
+    <lastmod>2019-04-16T22:32:18-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.seanewilkinson.com/blog/tags/</loc>
+    <lastmod>2019-04-16T22:32:18-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.seanewilkinson.com/blog/tags/untagged/</loc>
+    <lastmod>2019-04-16T22:32:18-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.seanewilkinson.com/blog/categories/</loc>
     <priority>0</priority>
   </url>
   

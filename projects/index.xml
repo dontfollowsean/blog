@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dontfollowsean</title>
-    <link>https://www.seanewilkinson.com/blog/</link>
-    <description>Recent content on dontfollowsean</description>
+    <title>Projects on dontfollowsean</title>
+    <link>https://www.seanewilkinson.com/blog/projects/</link>
+    <description>Recent content in Projects on dontfollowsean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Apr 2019 22:32:51 -0400</lastBuildDate>
     
-	<atom:link href="https://www.seanewilkinson.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.seanewilkinson.com/blog/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,15 +17,6 @@
       <pubDate>Tue, 16 Apr 2019 22:32:51 -0400</pubDate>
       
       <guid>https://www.seanewilkinson.com/blog/projects/helloworld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HelloWorld</title>
-      <link>https://www.seanewilkinson.com/blog/posts/2019/04/helloworld/</link>
-      <pubDate>Tue, 16 Apr 2019 22:32:18 -0400</pubDate>
-      
-      <guid>https://www.seanewilkinson.com/blog/posts/2019/04/helloworld/</guid>
       <description></description>
     </item>
     
