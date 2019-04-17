@@ -19,7 +19,7 @@ title = "dontfollowsean"
   contentTypeName = "posts"
   # Default theme "light" or "dark"
   defaultTheme = "dark"
-  homeSubtitle = "Under Contruction 👷🏾‍♂️"
+  homeSubtitle = "Software Engineer"
 
   [[params.social]]
     name = "email"
@@ -49,7 +49,7 @@ title = "dontfollowsean"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"
-    url        = "/"
+    url        = "/posts"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
