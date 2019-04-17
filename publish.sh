@@ -1,9 +1,7 @@
-
 #!/bin/sh
 
-# DIR=$(dirname "$0")
-
-# cd $DIR/..
+MSG=$1
+FLAG=$2
 
 if [[ $(git status -s) ]]
 then
@@ -23,10 +21,10 @@ git worktree add -B gh-pages public origin/gh-pages
 echo "Removing existing files"
 rm -rf public/*
 
-echo "Generating site"
-hugo
+echo "Generating site $FLAG"
+hugo $FLAG
 
 cp favicon.ico public/favicon.ico
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)" && git push
+cd public && git add --all && git commit -m "$MSG (publish.sh)" && git push
