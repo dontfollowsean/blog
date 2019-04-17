@@ -53,7 +53,7 @@ title = "dontfollowsean"
   [[menu.main]]
     identifier = "projects"
     name       = "Projects"
-    url        = "/" 
+    url        = "/projects" 
 
 [permalinks]
     posts = "/posts/:year/:month/:title/"
