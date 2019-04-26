@@ -1,0 +1,31 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on dontfollowsean</title>
+        <link>https://www.seanewilkinson.com/blog/posts/</link>
+        <description>Recent content in Posts on dontfollowsean</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://www.seanewilkinson.com/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>HelloWorld</title>
+            <link>https://www.seanewilkinson.com/blog/posts/2019/04/helloworld/</link>
+            <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
+            
+            <guid>https://www.seanewilkinson.com/blog/posts/2019/04/helloworld/</guid>
+            <description>Hello World Example written in Go.
+package main import &amp;quot;fmt&amp;quot; func main() { fmt.Println(&amp;quot;hello world&amp;quot;) }  </description>
+            <content type="html"><![CDATA[<p>Hello World Example written in Go.</p>
+
+<pre><code class="language-go">package main
+import &quot;fmt&quot;
+func main() {
+    fmt.Println(&quot;hello world&quot;)
+}
+</code></pre>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
